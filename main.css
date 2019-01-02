@@ -22,7 +22,7 @@ body{
 }
 
 #content.open{
-    max-height: 1000px;
+    max-height: 550px;
 
     -webkit-transition: max-height 0.7s;
     -moz-transition: max-height 0.7s;
